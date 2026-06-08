@@ -1,0 +1,8 @@
+{
+  "name": "PakPulse News",
+  "description": "A premium, fully responsive, and professional news portal featuring breaking news, latest updates from Pakistan, World, Business, Technology, Sports, and Entertainment. It includes automated API news fetching, dynamic categories, and a modern UI/UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
